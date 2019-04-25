@@ -1,0 +1,42 @@
+﻿  enemigo.cpp
+c:\users\rustimac\pictures\portfolio\trabajo practico  2\enemigo.h(39): warning C4244: 'return': conversión de 'const T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\rustimac\pictures\portfolio\trabajo practico  2\enemigo.cpp(111): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\rustimac\pictures\portfolio\trabajo practico  2\enemigo.cpp(121): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  juego.cpp
+c:\users\rustimac\pictures\portfolio\trabajo practico  2\enemigo.h(39): warning C4244: 'return': conversión de 'const T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\rustimac\pictures\portfolio\trabajo practico  2\juego.cpp(37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\rustimac\pictures\portfolio\trabajo practico  2\juego.cpp(266): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  jugador.cpp
+c:\users\rustimac\pictures\portfolio\trabajo practico  2\jugador.cpp(20): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\rustimac\pictures\portfolio\trabajo practico  2\jugador.cpp(21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\rustimac\pictures\portfolio\trabajo practico  2\jugador.cpp(41): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\rustimac\pictures\portfolio\trabajo practico  2\jugador.cpp(48): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  main.cpp
+c:\users\rustimac\pictures\portfolio\trabajo practico  2\enemigo.h(39): warning C4244: 'return': conversión de 'const T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+c:\users\rustimac\pictures\portfolio\trabajo practico  2\main.cpp(9): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  nodo.cpp
+c:\users\rustimac\pictures\portfolio\trabajo practico  2\enemigo.h(39): warning C4244: 'return': conversión de 'const T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  Generando código...
+c:\users\rustimac\pictures\portfolio\trabajo practico  2\juego.cpp(362): warning C4715: 'juego::cola_vacia': no todas las rutas de acceso de control devuelven un valor
+c:\users\rustimac\pictures\portfolio\trabajo practico  2\enemigo.cpp(128): warning C4715: 'enemigo::izquierda_derecha': no todas las rutas de acceso de control devuelven un valor
+  Trabajo Practico  2.vcxproj -> C:\Users\Rustimac\Pictures\portfolio\Trabajo Practico  2\x64\Debug\Trabajo Practico  2.exe
